@@ -22,7 +22,8 @@ ellipse(50, 50, 80, 80);
 // noloop() --> is called in setup(), so that draw() will execute only once
 // loop()   -->  causes draw() to execute continuously 
 
-// to draw line 
+// to draw line line(startX,startY,endX,endY)
+
  line(0, 60, 50, 45);  
  
  
